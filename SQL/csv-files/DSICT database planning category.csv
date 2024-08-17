@@ -1,0 +1,19 @@
+ID,txtid,name,image_path,is_character_specific,character_name,expansion
+0,tools,Tools,images/categories/tools.png,0,,all
+1,light,Light,images/categories/light.png,0,,all
+2,nautical,Nautical,images/categories/nautical.png,0,,"sw,ham"
+3,survival,Survival,images/categories/survival.png,0,,all
+4,food,Food,images/categories/food.png,0,,all
+5,science,Science,images/categories/science.png,0,,all
+6,fight,Fight,images/categories/fight.png,0,,all
+7,structures,Structures,images/categories/structures.png,0,,all
+8,refine,Refine,images/categories/refine.png,0,,all
+9,magic,Magic,images/categories/magic.png,0,,all
+10,dress,Dress,images/categories/dress.png,0,,all
+11,books,Books,images/categories/books.png,1,Wickerbottom,all
+12,tinkering,Tinkering,images/categories/tinkering.png,1,Wagstaff,all
+13,ancient,Ancient,images/categories/ancient.png,0,,all
+14,volcanic,Volcanic,images/categories/volcanic.png,0,,sw
+15,treasure_hunting,Treasure Hunting,images/categories/treasure_hunting.png,0,,ham
+16,green_thumb,Green Thumb,images/categories/green_thumb.png,1,Wormwood,ham
+17,city_planning,City Planning,images/categories/city_planning.png,0,,ham

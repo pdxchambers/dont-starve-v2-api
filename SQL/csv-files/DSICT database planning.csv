@@ -1,0 +1,102 @@
+ID,txtid,name,image_path
+0,cut_grass,Cut Grass,images/materials/cut_grass.png
+1,flint,Flint,images/materials/flint.png
+2,gold_nugget,Gold Nugget,images/materials/gold_nugget.png
+3,log,Log,images/materials/log.png
+4,rocks,Rocks,images/materials/rocks.png
+5,twigs,Twigs,images/materials/twigs.png
+6,fireflies,Fireflies,images/materials/fireflies.png
+7,pumpkin,Pumpkin,images/materials/pumpkin.png
+8,lightbulb,Lightbulb,images/materials/lightbulb.png
+9,nitre,Nitre,images/materials/nitre.png
+10,glow_berry,Glow Berry,images/materials/glow_berry.png
+11,moleworm,Moleworm,images/materials/moleworm.png
+12,silk,Silk,images/materials/silk.png
+13,spider_gland,Spider Gland,images/materials/spider_gland.png
+14,ashes,Ashes,images/materials/ashes.png
+15,pig_skin,Pig Skin,images/materials/pig_skin.png
+16,honey,Honey,images/materials/honey.png
+17,bunny_puff,Bunny Puff,images/materials/bunny_puff.png
+18,petals,Petals,images/materials/petals.png
+19,down_feather,Down Feather,images/materials/down_feather.png
+20,cut_reeds,Cut Reeds,images/materials/cut_reeds.png
+21,gears,Gears,images/materials/gears.png
+22,thick_fur,Thick Fur,images/materials/thick_fur.png
+23,manure,Manure,images/materials/manure.png
+24,honeycomb,Honeycomb,images/materials/honeycomb.png
+25,bee,Bee,images/materials/bee.png
+26,charcoal,Charcoal,images/materials/charcoal.png
+27,bone_shards,Bone Shards,images/materials/bone_shards.png
+28,nightmare_fuel,Nightmare Fuel,images/materials/nightmare_fuel.png
+29,rotten_eggs,Rotten Eggs,images/materials/rotten_eggs.png
+30,ice,Ice,images/materials/ice.png
+31,azure_feather,Azure Feather,images/materials/azure_feather.png
+32,crimson_feather,Crimson Feather,images/materials/crimson_feather.png
+33,jet_feather,Jet Feather,images/materials/jet_feather.png
+34,hound_stooth,Hound's Tooth,images/materials/hounds_tooth.png
+35,marble,Marble,images/materials/marble.png
+36,scales,Scales,images/materials/scales.png
+37,volt_goat_horn,Volt Goat Horn,images/materials/volt_goat_horn.png
+38,stinger,Stinger,images/materials/stinger.png
+39,carrot,Carrot,images/materials/carrot.png
+40,foliage,Foliage,images/materials/foliage.png
+41,rocky_turf,Rocky Turf,images/materials/rocky_turf.png
+42,seeds,Seeds,images/materials/seeds.png
+43,beefalo_wool,Beefalo Wool,images/materials/beefalo_wool.png
+44,broken_shell,Broken Shell,images/materials/broken_shell.png
+45,dark_petals,Dark Petals,images/materials/dark_petals.png
+46,red_gem,Red Gem,images/materials/red_gem.png
+47,blue_gem,Blue Gem,images/materials/blue_gem.png
+48,purple_gem,Purple Gem,images/materials/purple_gem.png
+49,batlisk_wing,Batlisk Wing,images/materials/batlisk_wing.png
+50,beard_hair,Beard Hair,images/materials/beard_hair.png
+51,cooked_meat,Cooked Meat,images/materials/cooked_meat.png
+52,living_log,Living Log,images/materials/living_log.png
+53,mandrake,Mandrake,images/materials/mandrake.png
+54,rabbit,Rabbit,images/materials/rabbit.png
+55,slurper_pelt,Slurper Pelt,images/materials/slurper_pelt.png
+56,beefalo_horn,Beefalo Horn,images/materials/beefalo_horn.png
+57,berry_bush,Berry Bush,images/materials/berry_bush.png
+58,coon_tail,Coon Tail,images/materials/coon_tail.png
+59,deerclops_eye,Deerclops Eye,images/materials/deerclops_eye.png
+60,koalefant_trunk,Koalefant Trunk,images/materials/koalefant_trunk.png
+61,tentacle_spots,Tentacle Spots,images/materials/tentacle_spots.png
+62,walrus_tusk,Walrus Tusk,images/materials/walrus_tusk.png
+63,winter_koalefant_trunk,Winter Koalefant Trunk,images/materials/winter_koalefant_trunk.png
+64,cactus_flower,Cactus Flower,images/materials/cactus_flower.png
+65,mosquito_sack,Mosquito Sack,images/materials/mosquito_sack.png
+66,moon_rock,Moon Rock,images/materials/moon_rock.png
+67,health,Health,images/materials/health.png
+68,fur_tuft,Fur Tuft,images/materials/fur_tuft.png
+69,glommers_wings,Glommer's Wings,images/materials/glommers_wings.png
+70,glommers_flower,Glommer's Flower,images/materials/glommers_flower.png
+71,thulecite,Thulecite,images/materials/thulecite.png
+72,thulecite_fragments,Thulecite Fragments,images/materials/thulecite_fragments.png
+73,guardians_horn,Guardianshorn,images/materials/guardians_horn.png
+74,yellow_gem,Yellow Gem,images/materials/yellow_gem.png
+75,green_gem,Green Gem,images/materials/green_gem.png
+76,orange_gem,Orange Gem,images/materials/orange_gem.png
+77,egg,Egg,images/materials/egg.png
+78,meat,Meat,images/materials/meat.png
+79,watermelon,Watermelon,images/materials/watermelon.png
+80,sand,Sand,images/materials/sand.png
+81,obsidian,Obsidian,images/materials/obsidian.png
+82,bioluminescence,Bioluminescence,images/materials/bioluminescence.png
+83,seashell,Seashell,images/materials/seashell.png
+84,bamboo,Bamboo,images/materials/bamboo.png
+85,vines,Vines,images/materials/vines.png
+86,palm_leaf,Palm Leaf,images/materials/palm_leaf.png
+87,coconut,Coconut,images/materials/coconut.png
+88,jellyfish,Jellyfish,images/materials/jellyfish.png
+89,seaweed,Seaweed,images/materials/seaweed.png
+90,snakeskin,Snakeskin,images/materials/snakeskin.png
+91,venom_gland,Venom Gland,images/materials/venom_gland.png
+92,coral,Coral,images/materials/coral.png
+93,dead_swordfish,Dead Swordfish,images/materials/dead_swordfish.png
+94,banana,Banana,images/materials/banana.png
+95,dubloons,Dubloons,images/materials/dubloons.png
+96,hail,Hail,images/materials/hail.png
+97,shark_fin,Shark Fin,images/materials/shark_fin.png
+98,brainy_matter,Brainy Matter,images/materials/brainy_matter.png
+99,blubber,Blubber,images/materials/blubber.png
+100,turbine_blades,Turbine Blades,images/materials/turbine_blades.png

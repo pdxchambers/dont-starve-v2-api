@@ -1,0 +1,223 @@
+ID,txtid,name,image_path,expansion,requires,category,is_character_specific,character_name,description
+0,axe,Axe,images/craftable/tools/axe.png,"ds,dst,sw,rog,ham",,tools,0,,For murdering trees.
+1,pickaxe,Pickaxe,images/craftable/tools/pickaxe.png,"ds,dst,sw,rog,ham",,tools,0,,Make big rocks into little rocks.
+2,hammer,Hammer,images/craftable/tools/hammer.png,"rog,sw,dst,ham",,tools,,,Break stuff!
+3,hammer_ds,Hammer,images/craftable/tools/hammer.png,ds,science_machine,tools,0,,Break stuff!
+4,machete,Machete,images/craftable/tools/machete.png,sw,,tools,0,,Cut through things.
+5,shovel,Shovel,images/craftable/tools/shovel.png,"ds,dst,sw,rog,ham",science_machine,tools,0,,"Dig holes, bury stuff."
+6,pitchfork,Pitchfork,images/craftable/tools/pitchork.png,"ds,dst,sw,rog,ham",science_machine,tools,0,,Poke the ground.
+7,razor,Razor,images/craftable/tools/razor.png,"ds,dst,sw,rog,ham",science_machine,tools,0,,Make things bald.
+8,luxury_axe,Luxury Axe,images/craftable/tools/luxury_axe.png,"ds,dst,sw,rog,ham",alchemy_engine,tools,0,,Murder trees in style!
+9,regal_shovel,Regal Shovel,images/craftable/tools/regal_shovel.png,"ds,dst,sw,rog,ham",alchemy_engine,tools,0,,Dig fancy holes.
+10,opulent_pickaxe,Opulent Pickaxe,images/craftable/tools/opulent_pickaxe.png,"ds,dst,sw,rog,ham",alchemy_engine,tools,0,,Mine stones like a boss!
+11,luxury_machete,Luxury Machete,images/craftable/tools/luxury_machete.png,sw,alchemy_engine,tools,0,,Cut things and look good doing it.
+12,campfire,Campfire,images/craftable/light/campfire.png,"ds,dst,sw,rog,ham",,light,0,,S'more making implement.
+13,firepit,Firepit,images/craftable/light/firepit.png,"ds,dst,sw,rog,ham",,light,0,,Make light.
+14,torch,Torch,images/craftable/light/torch.png,"ds,dst,sw,rog,ham",,light,0,,Portable light.
+15,chiminea,Chiminea,images/craftable/light/chiminea.png,sw,,light,0,,Fancy light.
+16,obsidian_firepit,Obsidian Firepit,images/craftable/light/obsidian_firepit.png,sw,,light,0,,Volcanic light.
+17,endothermic_fire,Endothermic Fire,images/craftable/light/endothermic_fire.png,rog,science_machine,light,0,,It burns with cold.
+18,endothermic_firepit,Endothermic Firepit,images/craftable/lightendothermic_firepit.png,rog,alchemy_engine,light,0,,Cold fire for a hot day.
+19,moggles,Moggles,images/craftable/light/moggles.png,rog,alchemy_engine,light,0,,If moles had eyes.
+20,miner_hat,Miner Hat,images/craftable/light/miner_hat.png,"ds,dst,sw,rog,ham",alchemy_engine,light,0,,Hands-free light.
+21,pumpkin_lantern,Pumpkin Lantern,images/craftable/light/pumpkin_lantern.png,"ds,dst,sw,rog,ham",alchemy_engine,light,0,,Halloween light.
+22,lantern,Lantern,images/craftable/light/lantern.png,"ds,dst,sw,rog,ham",alchemy_engine,light,0,,High tech torch.
+23,bottle_lantern,Bottle Lantern,images/craftable/light/bottle_lantern.png,sw,alchemy_engine,light,0,,Light in a bottle.
+24,surfboard,Surfboard,images/craftable/nautical/surfboard.png,sw,,nautical,0,,Wave rider.
+25,log_raft,Log Raft,images/craftable/nautical/log_raft.png,sw,,nautical,0,,Basic raft.
+26,raft,Raft,images/craftable/nautical/raft.png,sw,,nautical,0,,A better raft.
+27,rowboat,Rowboat,images/craftable/nautical/rowboat.png,sw,science_machine,nautical,0,,Goes gently down the stream.
+28,boat_repair_kit,Boat Repair Kit,images/craftable/nautical/boat_repair_kit.png,sw,science_machine,nautical,0,,No more holes!
+29,thatch_sail,Thatch Sail,images/craftable/nautical/thatch_sail.png,sw,science_machine,nautical,0,,Catch the wind.
+30,boat_torch,Boat Torch,images/craftable/nautical/boat_torch.png,sw,science_machine,nautical,0,,"Bow light, but it's a torch."
+31,boat_lantern,Boat Lantern,images/craftable/nautical/boat_lantern.png,sw,science_machine,nautical,0,,See the rocks you're crashing into.
+32,boat_cannon,Boat Cannon,images/craftable/nautical/boat_cannon.png,sw,science_machine,nautical,0,,Broadside your enemies.
+33,sea_trap,Sea Trap,images/craftable/nautical/sea_trap.png,sw,science_machine,nautical,0,,Trap the sea.
+34,trawl_net,Trawl Net,images/craftable/nautical/trawl_net.png,sw,science_machine,nautical,0,,Lazy fishing.
+35,spyglass,Spyglass,images/craftable/nautical/spyglass.png,sw,science_machine,nautical,0,,See far away.
+36,captain_hat,Captain Hat,images/craftable/nautical/captain_hat.png,sw,science_machine,nautical,0,,Play sea captain.
+37,pirate_hat,Pirate Hat,images/craftable/nautical/pirate_hat.png,sw,science_machine,nautical,0,,"Yarr, this be a stylish hat."
+38,life_jacket,Life Jacket,images/craftable/nautical/life_jacket.png,sw,science_machine,nautical,0,,Keeps you from sinking.
+39,cargo_boat,Cargo Boat,images/craftable/nautical/cargo_boat.png,sw,alchemy_engine,nautical,0,,Carry stuff on water.
+40,armored_boat,Armored Boat,images/craftable/nautical/armored_boat.png,sw,alchemy_engine,nautical,0,,"Take a hit, keep afloat."
+41,cloth_sail,Cloth Sail,images/craftable/nautical/cloth_sail.png,sw,alchemy_engine,nautical,0,,Catch the wind better.
+42,snakeskin_sail,Snakeskin Sail,images/craftable/nautical/snakeskin_sail.png,sw,alchemy_engine,nautical,0,,"Good for getting around, not good for snakes."
+43,trap,Trap,images/craftable/survival/trap.png,"ds,dst,sw,rog,ham",,survival,0,,Trap things.
+44,whirly_fan,Whirly Fan,images/craftable/survival/whirly_fan.png,dst,,survival,0,,"Keep cool, as long as you keep moving."
+45,pretty_parasol,Pretty Parasol,images/craftable/survival/pretty_parasol.png,rog,,survival,0,,Create shade and look pretty.
+46,tropical_parasol,Tropical Parasol,images/craftable/survival/tropical_parasol.png,sw,,survival,0,,Create tropical shade.
+47,thatch_pack,Thatch Pack,images/craftable/survival/thatch_pack.png,sw,,survival,0,,Carry more stuff.
+48,bird_trap,Bird Trap,images/craftable/survival/bird_trap.png,"ds,dst,sw,rog,ham",science_machine,survival,0,,Catch birds.
+49,compass,Compass,images/craftable/survival/compass.png,"ds,dst,sw,rog,ham",science_machine,survival,0,,Find a direction.
+50,backpack,Backpack,images/craftable/survival/backpack.png,"ds,dst,sw,rog,ham",science_machine,survival,0,,More space for your junk.
+51,healing_salve,Healing Salve,images/craftable/survival/healing_salve.png,"ds,dst,sw,rog,ham",science_machine,survival,0,,"Sooths wounds, smells awful."
+52,straw_roll,Straw Roll,images/craftable/survival/straw_roll.png,"ds,dst,sw,rog,ham",science_machine,survival,0,,Itchy sleep.
+53,telltale_heart,Telltale Heart,images/craftable/survival/telltale_heart.png,dst,science_machine,survival,0,,Dark magic reserection.
+54,umbrella,Umbrella,images/craftable/survival/umbrella.png,"ds,dst,sw,rog,ham",science_machine,survival,0,,Don't open indoors.
+55,bug_net,Bug Net,images/craftable/survival/bug_net.png,"ds,dst,sw,rog,ham",science_machine,survival,0,,Catch butterflies… or bees.
+56,fishing_rod,Fishing Rod,images/craftable/survival/fishing_rod.png,"ds,dst,sw,rog,ham",science_machine,survival,0,,"Catch fish, beware frogs."
+57,silly_monkey_ball,Silly Monkey Ball,images/craftable/survival/silly_monkey_ball.png,sw,science_machine,survival,0,,Throw this instead of poo.
+58,anti_venom,Anti-Venom,images/craftable/survival/anti_venom.png,sw,science_machine,survival,0,,Cure poison.
+59,water_baloon,Water Baloon,images/craftable/survival/water_baloon.png,dst,science_machine,survival,0,,Keeping cool the fun way.
+60,piggyback,Piggyback,images/craftable/survival/piggyback.png,"ds,dst,sw,rog,ham",alchemy_engine,survival,0,,"Kill pig, carry stuff in its skin."
+61,honey_poultace,Honey Poultace,images/craftable/survival/honey_poultace.png,"ds,dst,sw,rog,ham",alchemy_engine,survival,0,,"Heal up, smells better than salve."
+62,fur_roll,Fur Roll,images/craftable/survival/fur_roll.png,"ds,dst,sw,rog,ham",alchemy_engine,survival,0,,"Warm sleep, beware fleas."
+63,tent,Tent,images/craftable/survival/tent.png,"ds,dst,sw,rog,ham",alchemy_engine,survival,0,,Temporary shelter.
+64,thermal_stone,Thermal Stone,images/craftable/survival/thermal_stone.png,"ds,dst,sw,rog,ham",alchemy_engine,survival,0,,"Hot stone, keep warm."
+65,siesta_lean_to,Siesta Lean-To,images/craftable/survival/siesta_lean_to.png,rog,alchemy_engine,survival,0,,Daytime sleepy place.
+66,luxury_fan,Luxury Fan,images/craftable/survival/luxury_fan.png,rog,alchemy_engine,survival,0,,Stylish wind machine.
+67,insulated_pack,Insulated Pack,images/craftable/survival/insulated_pack.png,rog,alchemy_engine,survival,0,,Carry food.
+68,palm_leaf_hut,Palm Leaf Hut,images/craftable/survival/palm_leaf_hut.png,sw,alchemy_engine,survival,0,,Carusoe was here.
+69,basic_farm,Basic Farm,images/craftable/food/basic_farm.png,"ds,dst,sw,rog,ham",science_machine,food,0,,Grow food.
+70,bee_box,Bee Box,images/craftable/food/bee_box.png,"ds,dst,sw,rog,ham",science_machine,food,0,,"Get honey, try not to get stung."
+71,drying_rack,Drying Rack,images/craftable/food/drying_rack.png,"ds,dst,sw,rog,ham",science_machine,food,0,,Make jerky.
+72,crock_pot,Crock Pot,images/craftable/food/crock_pot.png,"ds,dst,sw,rog,ham",science_machine,food,0,,Good food.
+73,mussel_stick,Mussel Stick,images/craftable/food/mussel_stick.png,sw,science_machine,food,0,,Gather mussels.
+74,improved_farm,Improved Farm,images/craftable/food/improvised_farm.png,"ds,dst,sw,rog,ham",alchemy_engine,food,0,,Grow food faster.
+75,ice_box,Ice Box,images/craftable/food/ice_box.png,"ds,rog",alchemy_engine,food,0,,"Open up,  forget what you came for."
+76,bucket_o_poop,Bucket-O-Poop,images/craftable/food/bucket_o_poop.png,rog,alchemy_engine,food,0,,Not for throwing.
+77,science_machine,Science Machine, images/craftable/science/science_machine.png,"ds,dst,sw,rog,ham",,science,0,,Prototype neat things.
+78,alchemy_engine_ds,Alchemy Engine, images/craftable/science/alchemy_engine.png,ds,science_machine,science,0,,Prototype eve better things.
+79,alchemy_engine,Alchemy Engine, images/craftable/science/alchemy_engine.png,"dst,rog,sw,ham",science_machine,science,0,,Prototype eve better things.
+80,thermal_measurer,Thermal Measurer, images/craftable/science/thermal_measurer.png,"ds,dst,sw,rog,ham",science_machine,science,0,,Weather hottness guage.
+81,rainometer,Rainometer, images/craftable/science/rainometer.png,"ds,dst,sw,rog,ham",science_machine,science,0,,Rain predictor.
+82,lightning_rod_ds,Lightning Rod, images/craftable/science/lightning_rod.png,ds,science_machine,science,0,,Catch lightning.
+83,lightning_rod,Lightning Rod, images/craftable/science/lightning_rod.png,"dst,rog,sw,ham",science_machine,science,0,,Catch lightning.
+84,electrical_doodad_ds,Electrical Doodad, images/craftable/science/electrical_doodad.png,ds,science_machine,tinkering,1,wagstaff,It's a… thing.
+85,electrical_doodad,Electrical Doodad, images/craftable/science/electrical_doodad.png,"dst,rog,sw,ham",science_machine,science,0,,It's a… thing.
+86,divining_rod,Divining Rod, images/craftable/science/divining_rod.png,"ds,dst,sw,rog,ham",alchemy_engine,science,0,,"Find water, or something."
+87,gunpowder,Gunpowder, images/craftable/science/gunpowder.png,"ds,dst,sw,rog,ham",alchemy_engine,science,0,,Make stuff go boom.
+88,accomploshrine,Accomploshrine, images/craftable/science/accomploshrine.png,"ds,dst,sw,rog,ham",alchemy_engine,science,0,,Trophy for consoles… happy now?
+89,ice_flingomatic,Ice Flingomatic, images/craftable/science/ice_flingomatic.png,"dst,rog,sw,ham",alchemy_engine,science,0,,Throw ice around.
+90,icemaker_3k,Icemaker 3000, images/craftable/science/icemaker_3k.png,sw,alchemy_engine,science,0,,Make ice.
+91,grass_suit,Grass Suit,images/craftable/fight/grass_suit.png,"ds,dst,sw,rog,ham",,fight,0,,Not fire resistent.
+92,seashell_suit,Seashell Suit,images/craftable/fight/seashell_suit.png,sw,,fight,0,,You can hear the ocean while wearing it.
+93,limestone_suit,Limestone Suit,images/craftable/fight/limestone_suit.png,sw,,fight,0,,Stone suit… heavy.
+94,spear,Spear,images/craftable/fight/spear.png,"ds,dst,sw,rog,ham",science_machine,fight,0,,Poke things until dead.
+95,battle_spear,Battle Spear,images/craftable/fight/battle_spear.png,"dst,rog,sw,ham",,fight,1,wigfried,Pokier than a regular spear.
+96,battle_helm,Battle Helm,images/craftable/fight/battle_helm.png,"dst,rog,sw,ham",,fight,1,wigfried,Contains unicorn power.
+97,log_suit,Log Suit,images/craftable/fight/log_suit.png,"ds,dst,sw,rog,ham",science_machine,fight,0,,A suit of logs.
+98,bee_mine,Bee Mine,images/craftable/fight/bee_mine.png,"ds,dst,sw,rog,ham",science_machine,fight,0,,Stingy.
+99,sleep_dart,Sleep Dart,images/craftable/fight/sleep_dart.png,"ds,dst,sw,rog,ham",science_machine,fight,0,,Cure for insomnia.
+100,fire_dart,Fire Dart,images/craftable/fight/fire_dart.png,"ds,dst,sw,rog,ham",science_machine,fight,0,,Burns things.
+101,blow_dart,Blow Dart,images/craftable/fight/blow_dart.png,"ds,dst,sw,rog,ham",science_machine,fight,0,,Don't suck.
+102,poison_dart,Poison Dart,images/craftable/fight/poison_dart.png,sw,science_machine,fight,0,,Poison things.
+103,poison_spear,Poison Spear,images/craftable/fight/poison_spear.png,sw,science_machine,fight,0,,Stab things… with poison.
+104,coconade,Coconade,images/craftable/fight/cocnade.png,sw,science_machine,fight,0,,Explosive coconuts.
+105,spear_gun,Spear Gun,images/craftable/fight/spear_gun.png,sw,science_machine,fight,0,,Shoot spears.
+106,ham_bat,Ham Bat,images/craftable/fight/ham_bat.png,"ds,dst,sw,rog,ham",alchemy_engine,fight,0,,A bat and a meal.
+107,marble_suit,Marble Suit,images/craftable/fight/marble_suit.png,"ds,dst,sw,rog,ham",alchemy_engine,fight,0,,Do your best statue impression.
+108,football_helmet,Football Helmet,images/craftable/fight/football_helmet.png,"ds,dst,sw,rog,ham",alchemy_engine,fight,0,,Don't get sacked.
+109,boomerang,Boomerang,images/craftable/fight/boomerang.png,"ds,dst,sw,rog,ham",alchemy_engine,fight,0,,"It comes right back, unless it doesn't."
+110,tooth_trap,Tooth Trap,images/craftable/fight/tooth_trap.png,"ds,dst,sw,rog,ham",alchemy_engine,fight,0,,Pokey trap.
+111,scalemail,Scalemail,images/craftable/fight/scalemail.png,"dst,rog",alchemy_engine,fight,0,,Look like a knight.. Or a dragon.
+112,weather_pain,Weather Pain,images/craftable/fight/weather_pain.png,"dst,rog",alchemy_engine,fight,0,,Weathervane or weapon?
+113,morning_star,Morning Star,images/craftable/fight/morning_star.png,"dst,rog",alchemy_engine,fight,0,,Beat things with a star.
+114,cutlass_supreme,Cutlass Supreme,images/craftable/fight/cutlass_supreme.png,sw,alchemy_engine,fight,0,,"Like a sword, but it's gonna cut less."
+115,sandcastle,Sandcastle,images/craftable/structures/sandcastle.png,sw,,structures,0,,A castle made of sand.
+116,chest,Chest,images/craftable/structures/chest.png,"ds,dst,sw,rog,ham",science_machine,structures,0,,Store things you don't want to carry.
+117,sign,Sign,images/craftable/structures/sign.png,"ds,dst,sw,rog,ham",science_machine,structures,0,,Tell people things.
+118,hay_wall,Hay Wall,images/craftable/structures/hay_wall.png,"ds,dst,sw,rog,ham",science_machine,structures,0,,Make a wall of hay.
+119,wood_wall,Wood Wall,images/craftable/structures/wood_wall.png,"ds,dst,sw,rog,ham",science_machine,structures,0,,Better than hay but still flammable.
+120,sandbag,Sandbag,images/craftable/structures/sandbag.png,sw,science_machine,structures,0,,Keep the water at bay.
+121,stone_wall,Stone Wall,images/craftable/structures/stone_wall.png,"ds,dst,sw,rog,ham",alchemy_engine,structures,0,,Less flamable wall.
+122,pig_house,Pig House,images/craftable/structures/pig_house.png,"ds,dst,sw,rog,ham",alchemy_engine,structures,0,,A house. For pigs.
+123,rabbit_hutch,Rabbit Hutch,images/craftable/structures/rabbit_hutch.png,"ds,dst,sw,rog,ham",alchemy_engine,structures,0,,Rabbit storage.
+124,bird_cage,Bird Cage,images/craftable/structures/bird_cage.png,"ds,dst,sw,rog,ham",alchemy_engine,structures,0,,Cage the bird as it should be.
+125,cobblestone,Cobblestone,images/craftable/structures/cobblestone.png,"ds,dst,sw,rog,ham",alchemy_engine,structures,0,,Cobble stone together.
+126,wooden_flooring,Wooden Flooring,images/craftable/structures/wooden_flooring.png,"ds,dst,sw,rog,ham",alchemy_engine,structures,0,,Make a floor out of wood.
+127,checkerboard_flooring,Checkerboard Flooring,images/craftable/structures/checkerboard_flooring.png,"ds,dst,sw,rog,ham",alchemy_engine,structures,0,,"Walk on it, or play checkers."
+128,potted_fern,Potted Fern,images/craftable/structures/potted_fern.png,"ds,dst,sw,rog,ham",alchemy_engine,structures,0,,Decorative plant.
+129,scaled_chest,Scaled Chest,images/craftable/structures/scaled_chest.png,"dst, rog",alchemy_engine,structures,0,,Impressive chest for keeping stuff.
+130,limestone_wall,Limestone Wall,images/craftable/structures/limestone_wall.png,sw,alchemy_engine,structures,0,,Stonewall your enemies.
+131,wild_boar_house,Wild Boar House,images/craftable/structures/wild_boar_house.png,sw,alchemy_engine,structures,0,,"Wild house, for wild boars."
+132,prime_ape_hut,Prime Ape Hut,images/craftable/structures/prime_ape_hut.png,sw,alchemy_engine,structures,0,,House of apes.
+133,rope,Rope,images/craftable/refine/rope.png,"ds,dst,sw,rog,ham",science_machine,refine,0,,Tie things up.
+134,boards,Boards,images/craftable/refine/boards.png,"ds,dst,sw,rog,ham",science_machine,refine,0,,Build stuff
+135,cut_stone,Cut Stone,images/craftable/refine/cut_stone.png,"ds,dst,sw,rog,ham",science_machine,refine,0,,Mason's material.
+136,papyrus,Papyrus,images/craftable/refine/papyrus.png,"ds,dst,sw,rog,ham",science_machine,refine,0,,Write things down.
+137,cloth,Cloth,images/craftable/refine/cloth.png,sw,science_machine,refine,0,,Multi-purpose textile.
+138,limestone,Limestone,images/craftable/refine/limestone.png,sw,science_machine,refine,0,,Soft rock.
+139,gold_nugget,Gold Nugget,images/craftable/refine/gold_nugget.png,sw,science_machine,refine,0,,"Impractical for tools, but pretty."
+140,ice,Ice,images/craftable/refine/ice.png,sw,alchemy_engine,refine,0,,Keep your drinks cold.
+141,empty_bottle,Empty Bottle,images/craftable/refine/empty_bottle.png,sw,alchemy_engine,refine,0,,"Put things in it, like messages."
+142,purple_gem,Purple Gem,images/craftable/refine/purple_gem.png,"ds,dst,sw,rog,ham",prestihatilator,refine,0,,Red plus blue equals purple.
+143,nightmare_fuel,Nightmare Fuel,images/craftable/refine/nightmare_fuel.png,"ds,dst,sw,rog,ham",prestihatilator,refine,0,,The stuff of nightmares.
+144,old_bell,Old Bell,images/craftable/magic/old_bell.png,"rog,dst",,magic,0,,"A bell, that's old."
+145,prestihatilator,Prestihatilator,images/craftable/magic/prestihatilator.png,"ds,dst,sw,rog,ham",science_machine,magic,0,,Prestidigitation with a hat.
+146,piratihatitator,Piratihatitator,images/craftable/magic/piratihatilator.png,sw,science_machine,magic,0,,Prestidigitation with a pirate hat.
+147,shadow_manipulator,Shadow Manipulator,images/craftable/magic/shadow_manipulator.png,"ds,dst,sw,rog,ham",prestihatilator,magic,0,,Manipulate shadows.
+148,meat_effigy,Meat Effigy,images/craftable/magic/meat_effigy.png,"ds,dst,sw,rog,ham",prestihatilator,magic,0,,"Meat sack, looks like you."
+149,pan_flute,Pan Flute,images/craftable/magic/pan_flute.png,"ds,dst,sw,rog,ham",prestihatilator,magic,0,,Snooze music.
+150,one_man_band,One-Man Band,images/craftable/magic/one_man_band.png,"ds,dst,sw,rog,ham",prestihatilator,magic,0,,Create a following.
+151,night_light,Night Light,images/craftable/magic/night_light.png,"ds,dst,sw,rog,ham",prestihatilator,magic,0,,Keep the dark away.
+152,life_giving_amulet,Life Giving Amulet,images/craftable/magic/life_giving_amulet.png,"ds,dst,sw,rog,ham",prestihatilator,magic,0,,Come back to life.
+153,chilled_amulet,Chilled Amulet,images/craftable/magic/chilled_amulet.png,"ds,dst,sw,rog,ham",prestihatilator,magic,0,,Keep your cool.
+154,ice_staff,Ice Staff,images/craftable/magic/ice_staff.png,"ds,dst,sw,rog,ham",prestihatilator,magic,0,,Freeze your enemies.
+155,dark_sword,Dark Sword,images/craftable/magic/dark_sword.png,"ds,dst,sw,rog,ham",shadow_manipulator,magic,0,,Sword of nightmares.
+156,night_armor,Night Armor,images/craftable/magic/night_armor.png,"ds,dst,sw,rog,ham",shadow_manipulator,magic,0,,Armor of darkness.
+157,bat_bat,Bat Bat,images/craftable/magic/bat_bat.png,"ds,dst,sw,rog,ham",shadow_manipulator,magic,0,,"A bat, made from a bat."
+158,fire_staff,Fire Staff,images/craftable/magic/fire_staff.png,"ds,dst,sw,rog,ham",shadow_manipulator,magic,0,,Burn your enemies to ashes.
+159,telelocator_staff,Telelocator Staff,images/craftable/magic/telelocator_staff.png,"ds,dst,sw,rog,ham",shadow_manipulator,magic,0,,Totally not a transporter.
+160,telelocator_focus,Telelocator Focus,images/craftable/magic/telelocator_focus.png,"ds,dst,sw,rog,ham",shadow_manipulator,magic,0,,Totally not a  transporter pad.
+161,nightmare_amulet,Nightmare Amulet,images/craftable/magic/nightmare_amulet.png,"ds,dst,sw,rog,ham",shadow_manipulator,magic,0,,Experience the effects of insanity.
+162,belt_of_hunger,Belt of Hunger,images/craftable/magic/belt_of_hunger.png,"ds,dst,sw,rog,ham",shadow_manipulator,magic,0,,Tighten to reduce hunger.
+163,dripple_pipes,Dripple Pipes,images/craftable/magic/dripple_pipes.png,sw,piratihatitator,magic,0,,Create a drizzle of rain.
+164,garland,Garland,images/craftable/dress/garland.png,"ds,dst,sw,rog,ham",,dress,0,,Happy pretty flower hat.
+165,straw_hat,Straw Hat,images/craftable/dress/straw_hat.png,"dst,sw,rog,ham",,dress,0,,Hat of straw.
+166,straw_hat_ds,Straw Hat,images/craftable/dress/straw_hat.png,ds,science_machine,dress,0,,Hat of straw.
+167,rabbit_earmuffs,Rabbit Earmuffs,images/craftable/dress/rabbit_earmuffs.png,"ds,dst,sw,rog,ham",science_machine,dress,0,,Ears warmed by dead rabbits.
+168,beefalo_hat,Beefalo Hat,images/craftable/dress/beefalo_hat.png,"ds,dst,sw,rog,ham",science_machine,dress,0,,"Cold beefalo, warm head."
+169,top_hat,Top Hat,images/craftable/dress/top_hat.png,"ds,dst,sw,rog,ham",science_machine,dress,0,,Fancy hat.
+170,snakeskin_hat,Snakeskin Hat,images/craftable/dress/snakeskin_hat.png,sw,science_machine,dress,0,,Like a rain hat but made from snake.
+171,sleek_hat,Sleek Hat,images/craftable/dress/sleek_hat.png,sw,science_machine,dress,0,,Wind resistant.
+172,sewing_kit,Sewing Kit,images/craftable/dress/sewing_kit.png,"ds,dst,sw,rog,ham",alchemy_engine,dress,0,,Fix your clothes.
+173,beekeeper_hat,Beekeeper Hat,images/craftable/dress/beekeeper_hat.png,"ds,dst,sw,rog,ham",alchemy_engine,dress,0,,Avoid stings.
+174,feather_hat,Feather Hat,images/craftable/dress/feather_hat.png,"ds,dst,sw,rog,ham",alchemy_engine,dress,0,,Trick birds into thinking you're one of them.
+175,bush_hat,Bush Hat,images/craftable/dress/bush_hat.png,"ds,dst,sw,rog,ham",alchemy_engine,dress,0,,"I'm a bush, nothing to see here."
+176,winter_hat,Winter Hat,images/craftable/dress/winter_hat.png,"ds,dst,sw,rog,ham",alchemy_engine,dress,0,,Keep the noggin warm.
+177,walking_cane,Walking Cane,images/craftable/dress/walking_cane.png,"ds,dst,sw,rog,ham",alchemy_engine,dress,0,,Walk faster.
+178,dapper_vest,Dapper Vest,images/craftable/dress/dapper_vest.png,"ds,dst,sw,rog,ham",alchemy_engine,dress,0,,Look nice while kleeping warm.
+179,breezy_vest,Breezy Vest,images/craftable/dress/breezy_vest.png,"ds,dst,sw,rog,ham",alchemy_engine,dress,0,,Warm vest.
+180,ice_cube,Ice Cube,images/craftable/dress/ice_cube.png,"dst,sw,rog,ham",alchemy_engine,dress,0,,"Keep cool, if not dry."
+181,cat_cap,Cat Cap,images/craftable/dress/cat_cap.png,"dst,sw,rog,ham",alchemy_engine,dress,0,,A cap with a tail.
+182,rain_hat,Rain Hat,images/craftable/dress/rain_hat.png,"dst,sw,rog,ham",alchemy_engine,dress,0,,Keep your head dry.
+183,rain_coat,Rain Coat,images/craftable/dress/rain_coat.png,"dst,sw,rog,ham",alchemy_engine,dress,0,,Keep dry.
+184,hibernation_vest,Hibernation Vest,images/craftable/dress/hibernation_vest.png,"dst,sw,rog,ham",alchemy_engine,dress,0,,Keep warm and happy.
+185,eyebrella,Eyebrella,images/craftable/dress/eyebrella.png,"dst,sw,rog,ham",alchemy_engine,dress,0,,Keep dry and cool.
+186,summer_frest,Summer Frest,images/craftable/dress/summer_frest.png,"dst,sw,rog,ham",alchemy_engine,dress,0,,Keep from  overheating.
+187,floral_shirt,Floral Shirt,images/craftable/dress/floral_shirt.png,"dst,sw,rog,ham",alchemy_engine,dress,0,,Shirt made of flowers.
+188,floral_shirt_sw,Floral Shirt,images/craftable/dress/floral_shirt.png,sw,alchemy_engine,dress,0,,Shirt made of flowers.
+189,brain of thought,Brain of Thought,images/craftable/dress/brain_of_thought.png,sw,alchemy_engine,dress,0,,Make y our brain smarter.
+190,snakeskin_jacket,Snakeskin Jacket,images/craftable/dress/snakeskin_jacket.png,sw,alchemy_engine,dress,0,,A jacket made of dead snakes.
+191,blubber_suit,Blubber Suit,images/craftable/dress/blubber_suit.png,sw,alchemy_engine,dress,0,,"Warm, blubbery."
+192,windbreaker,Windbreaker,images/craftable/dress/windbreaker.png,sw,alchemy_engine,dress,0,,Break wind.
+193,gas_mask,Gas Mask,images/craftable/dress/gas_mask.png,sw,alchemy_engine,dress,0,,Protect against gas.
+194, bird_book,Birds of The World,images/craftable/books/bird_book.png,"ds,dst,sw,rog,ham",,books,1,Wickerbottom,Become the bird lady.
+195,horticulture_book,Applied Horticulture,images/craftable/books/horticulture_book.png,"ds,dst,sw,rog,ham",,books,1,Wickerbottom,Instantly grow plants.
+196,tentacle_book,On Tentacles,images/craftable/books/tentacle_book.png,"ds,dst,sw,rog,ham",alchemy_engine,books,1,Wickerbottom,Summon tentacles from the deep.
+197,sleepytime_book,Sleepytime Stories,images/craftable/books/sleepytime_book.png,"ds,dst,sw,rog,ham",prestihatilator,books,1,Wickerbottom,"So boring, everything falls asleep."
+198,volcanology_book,Joy of Volcanology,images/craftable/books/volcanology_book.png,sw,shadow_manipulator,books,1,Wickerbottom,Beware falling dragoons.
+199,end_is_nigh,The End is Nigh,images/craftable/books/end_is_nigh.png,"ds,dst,sw,rog,ham",shadow_manipulator,books,1,Wickerbottom,Create a lightning storm.
+200,thulecite,Thulecite,images/craftable/ancient/thulecite.png,"ds,dst,sw,rog,ham",broken_pseudoscience,ancient,0,,Ancient crafting material.
+201,thulecite_wall,Thulecite Wall,images/craftable/ancient/thulecite_wall.png,"ds,dst,sw,rog,ham",broken_pseudoscience,ancient,0,,Anciant wall.
+202,thulecite_medalion,Thulecite Medalion,images/craftable/ancient/thulecite_medalion.png,"ds,dst,sw,rog,ham",broken_pseudoscience,ancient,0,,Track the nightmare cycle.
+203,magiluminescence,Magiluminescence,images/craftable/ancient/magniluminescence.png,"ds,dst,sw,rog,ham",broken_pseudoscience,ancient,0,,Chest light.
+204,construction_amulet,Construction Amulet,images/craftable/ancient/construction_amulet.png,"ds,dst,sw,rog,ham",broken_pseudoscience,ancient,0,,Craft things easier.
+205,star_callers_staff,Star Caller's Staff,images/craftable/ancient/star_callers_staff.png,"ds,dst,sw,rog,ham",broken_pseudoscience,ancient,0,,Summon a tiny star.
+206,deconstruction_staff,Deconstruction Staff,images/craftable/ancient/deconstruction_staff.png,"ds,dst,sw,rog,ham",broken_pseudoscience,ancient,0,,Get materials for crafting.
+207,the_lazy_logger,The Lazy Logger,images/craftable/ancient/the_lazy_logger.png,"ds,dst,sw,rog,ham",ancient_pseudoscience,ancient,0,,
+208,the_lazy_explorer,The Lazy Explorer,images/craftable/ancient/the_lazy_explorer.png,"ds,dst,sw,rog,ham",ancient_pseudoscience,ancient,0,,Telepoof places.
+209,pick_axe,Pick/Axe,images/craftable/ancient/pick_axe.png,"ds,dst,sw,rog,ham",ancient_pseudoscience,ancient,0,,"It's a pick, and an axe… or just confused."
+210,thulecite_club,Thulecite Club,images/craftable/ancient/thulecite_club.png,"ds,dst,sw,rog,ham",ancient_pseudoscience,ancient,0,,Ancient beat stick.
+211,thulecite_suit,Thulecite Suit,images/craftable/ancient/thulecite_suit.png,"ds,dst,sw,rog,ham",ancient_pseudoscience,ancient,0,,Ancient armor.
+212,thulecite_crown,Thulecite Crown,images/craftable/ancient/thulecite_crown.png,"ds,dst,sw,rog,ham",ancient_pseudoscience,ancient,0,,A royal force of protection.
+213,houndius_shootus,Houndius Shootus,images/craftable/ancient/houndius_shootus.png,"ds,dst,sw,rog,ham",ancient_pseudoscience,ancient,0,,Tower of pew pew.
+214,obsidian_machete,Obsidian Machete,images/craftable/volcanic/obsidian_machete.png,sw,obsidian_workbench,volcanic,0,,Glass rock cutting thingy.
+215,obsidian_axe,Obsidian Axe,images/craftable/volcanic/obsidian_axe.png,sw,obsidian_workbench,volcanic,0,,Glass rock logging thingy.
+216,obsidian_armor,Obsidian Armor,images/craftable/volcanic/obsidian_armor.png,sw,obsidian_workbench,volcanic,0,,Sweet armor!
+217,obsidian_coconade,Obsidian Coconade,images/craftable/volcanic/obsidian_coconade.png,sw,obsidian_workbench,volcanic,0,,Makes an enormous boom.
+218,obsidian_spear,Obsidian Spear,images/craftable/volcanic/obsidian_spear.png,sw,obsidian_workbench,volcanic,0,,Extra sharp pointy stick.
+219,howling_conch,Howling Conch,images/craftable/volcanic/howling_conch.png,sw,obsidian_workbench,volcanic,0,,This shell will blow you away.
+220,willows_lighter,Willow's Lighter,images/craftable/light/willows_lighter.png,dst,,light,1,Willow,Little girls play with fire.
+221,bernie,Bernie,images/craftable/survival/bernie.png,dst,,survival,1,Willow,Teddy bear protector.

@@ -1,0 +1,6 @@
+ID,txtid,name,image_path,Description
+0,ds,Don't Starve,images/expansion/ds.png,Basic Game
+1,dst,Don't Starve Together,images/expansion/dst.png,Online Multi-Player version
+2,rog,Reign Of Giants,images/expansion/rog.png,First Expansion
+3,sw,Shipwrecked,images/expansion/sw.png,Second Expansion
+4,ham,Hamlet,images/expansion/ham.png,Third Expansion

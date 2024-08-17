@@ -1,0 +1,23 @@
+USE dont_starve;
+INSERT INTO Characters (ID, txtid, name, image_path, description, expansion_id) VALUES
+	(0, 'wilson', 'Wilson', 'images/characters/wilson.png', 'Grows a magnificent beard.', 0),
+    (1, 'willow', 'Willow', 'images/characters/willow.png', 'Immune to fire, has a sweet lighter, lights fires when nervous.', 0),
+    (2, 'wolfgang', 'Wolfgang', 'images/characters/wolfgang.png', 'Grows stronger with a full belly, afraid of monsters and the dark.', 0),
+    (3, 'wendy', 'Wendy', 'images/characters/wendy.png', 'Is haunted by her twin sister. Feels comfortable in the dark, Doesn''t hit very hard.', 0),
+    (4, 'wx-78', 'WX-78', 'images/characters/wx-78.png', 'Not a picky eater, is charged by lightning but damaged by water. Can upgrade with gears.', 0),
+    (5, 'wickerbottom', 'Wickerbottom', 'images/characters/wickerbottom.png', 'KNows many things. Self-publishes bookx. Can''t sleep, hates food spoilage.', 0),
+    (6, 'woodie', 'Woodie', 'images/characters/woodie.png', 'Has a lovely axe. And a terrible secret. Is thankful for bountiful harvests.', 0),
+    (7, 'wes', 'Wes', 'images/characters/wes.png', 'Can''t talk. Has trouble staying alive. Practices balloonomancy.', 0),
+    (8, 'maxwell', 'Maxwell', 'images/characters/maxwell.png', 'Is dapper, but frail. Can split his mind into pieces. On a first-name basis with the night.', 0),
+    (9, 'wagstaff', 'Wagstaff', 'images/characters/wagstaff.png', 'A great inventor. Nearsighted. Delicate Stomach.', 0),
+    (10, 'wigfrid', 'Wigfrid', 'images/characters/wiigfrid.png', 'Excels in battle. Absorbs the power of fallen foes. Only eats meat', 2),
+    (11, 'webber', 'Webber', 'images/characters/webber.png', 'Is a monster. Can befriend spiders. Grows a silky smooth beard', 2),
+    (12, 'walani', 'Walani', 'images/characters/walani.png', 'Loves surfing. Dries off quickly. Is a pretty chill gal.', 3),
+    (13, 'warly', 'Warly', 'images/characters/warly.png', 'Has a refined palate. Cooks in custom kitchenware. Brings a stylish chef pouch.', 3),
+    (14, 'wilber', 'Wilber', 'images/characters/wilber.png', 'Can''t talk. Slow as biped, but fast as quadruped. Is a monkey.', 3),
+    (15, 'woodlegs', 'Woodlegs', 'images/characters/woodlegs.png', 'Can sniff out treasure. Captain of the "Sea Legs". Pirate.', 3),
+    (16, 'wilba', 'Wilba', 'images/characters/wilba.png', 'Is a pig. Carries her father''s legacy. Is afraid of the dark.', 4),
+    (17, 'wormwood', 'Wormwood', 'images/characters/wormwood.png', 'Plants relate to him. Has a Green Thumb. Food fills his stomach, but not his heart.', 4),
+    (18, 'wheeler', 'Wheeler', 'images/characters/wheeler.png', 'Armed with an air horn. Has a knick knack for finding things. Travels lighter than most.', 4),
+	(19, 'winona', 'Winona', 'images/characters/winona.png', 'Is a skilled builder. Gets one free hit from the dark. Invents her own gadgets.', 1),
+    (20, 'wortox', 'Wortox', 'images/characters/wortox.png', 'Is an imp. Can hop through time and space. Less nourished by physical food.', 1);
