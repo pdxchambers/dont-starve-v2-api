@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Hosting.Server;
 using System.Configuration;
+using Microsoft.Extensions.Logging;
+using Serilog;
 
 namespace dont_starve_tests
 {
@@ -13,15 +15,22 @@ namespace dont_starve_tests
     {
         private MySqlContext _context;
         private IConfiguration _configuration;
+        private ILogger<MySqlContext> _logger;
 
         [SetUp]
-        public void Setup()
+        public void Setup(ILogger<MySqlContext> logger)
         {
             // Set up configuration to read from appsettings.json and secrets.json
             var builder = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .AddUserSecrets<EntityTests>();
+
+            var Logger = new LoggerConfiguration()
+                .WriteTo.Console()
+                .CreateLogger();
+
+            _logger = logger;
 
             _configuration = builder.Build();
 
@@ -37,7 +46,7 @@ namespace dont_starve_tests
                 .UseMySQL(connectionString)
                 .Options;
 
-            _context = new MySqlContext(options  , _configuration);
+            _context = new MySqlContext(options, _configuration, _logger);
         }
 
         [Test]
@@ -60,7 +69,7 @@ namespace dont_starve_tests
             _context.SaveChanges();
 
             var retrievedUser = _context.User.Find(1);
-            Assert.IsNotNull(retrievedUser);
+            Assert.That(retrievedUser, Is.Not.Null);
             Assert.That(retrievedUser.UserName, Is.EqualTo("testuser"));
         }
 
@@ -78,7 +87,7 @@ namespace dont_starve_tests
             _context.SaveChanges();
 
             var retrievedToken = _context.AccessToken.Find(token.GUID);
-            Assert.IsNotNull(retrievedToken);
+            Assert.That(retrievedToken, Is.Not.Null);
             Assert.That(retrievedToken.GUID, Is.EqualTo(token.GUID));
         }
 
